@@ -12,7 +12,7 @@ A small Rust CLI that connects to Discord’s Gateway over WebSockets and collec
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/Phaverhoek/phaverhoek-scraper.git
+   git clone https://github.com/phaverhoek/phaverhoek-scraper.git
    cd phaverhoek-scraper
    ```
 
