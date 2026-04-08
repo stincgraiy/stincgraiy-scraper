@@ -12,8 +12,8 @@ A small Rust CLI that connects to Discord’s Gateway over WebSockets and collec
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/noctavee/noctave-scraper.git
-   cd noctave-scraper
+   git clone https://github.com/moblake/moblake-scraper.git
+   cd moblake-scraper
    ```
 
 2. **Install Rust** (if needed): [rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
